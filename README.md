@@ -20,8 +20,7 @@
 ## week4
 1. 组会
 2. train CNN model to classify Mnist dataset through pytorch
-3. 
+3. use the GPU to train the model
 ## 后续计划随时更新：
-1. use the GPU to train the model,
-2. review the classical papers of GNN and read the papers of LLMs,
-3. compete the project of algorithm library, 
+1. review the classical papers of GNN and read the new papers of LLMs,
+2. compete the project of algorithm library of GNN
