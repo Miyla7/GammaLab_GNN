@@ -10,12 +10,18 @@
 看完后感觉LLM作用有限，很难形成以图数据为自监督训练数据，输出也是图数据的大模型，需要很长时间的探索
 
 ## week3
-1. 编写线性回归代码，还没写完，调包倒是挺好写几行代码，一步步的基础被忽略，反而难了，这周写完。
+1. 完成线性回归代码,包括按步骤实现和用sklearn进行调包。
 2. 组会
 * 学习了课题组组会汇报流程，大家都太优秀了，知识丰富，汇报前肯定阅读了大量文献，向高年级请教了很多问题；
 * 心得是PPT做的不是很美观会被push,有自己的见解收获，看文献的目的是学习别人的创新，推动自己的创新；
 * 计算机和数学的创新还是有区别，不再是数学理论和公式的创新，而是要创造新的技术，重点转变。
 3. 看GNN+LLMs的综述，重点关注LLM的新技术，原来对顶会没有太大的概念，现在看来顶会的很多创新是罗列组合，首次应用这些，做好成果还是得扩展知识面，才能相互交叉想出好的创新点.
 
+## week4
+1. 组会
+2. train CNN model to classify Mnist dataset through pytorch
+3. 
 ## 后续计划随时更新：
-电脑里深度学习环境cuda anaconda torch git等都配置过，把测试完成，后续重点按照动手学深度学习和吴恩达等机器学习课程节奏练编程，读文献找到适合自己的方向，向组内同学请教，重点是多模态+GNN+LLM。
+1. use the GPU to train the model,
+2. review the classical papers of GNN and read the papers of LLMs,
+3. compete the project of algorithm library, 

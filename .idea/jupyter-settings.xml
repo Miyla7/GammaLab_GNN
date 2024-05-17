@@ -8,7 +8,7 @@
             <JupyterConnectionParameters>
               <option name="argv" value="lab --no-browser " />
               <option name="managed" value="true" />
-              <option name="sdkName" value="GNN" />
+              <option name="sdkName" value="" />
             </JupyterConnectionParameters>
           </value>
         </entry>
