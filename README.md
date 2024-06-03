@@ -34,7 +34,7 @@
 1. meeting,
 2. implement the GATConv, SAEGConv by DGL and PyG
 3. the formulas are corresponding to the code
-4. think: the small change can chang the algorithm, the creation is not large in research 
+4. think: the small change can chang the algorithm, the innovation is not must large in research 
 
 ## 后续计划随时更新：
 1. review the classical papers of GNN and read the new papers of LLMs,
