@@ -22,6 +22,21 @@
 2. train CNN model to classify Mnist dataset through pytorch
 3. use the GPU to train the model
 4. save the logs and model, show the acc on tensorboard 
+
+## week5
+1. meeting,
+2. learn the based knowledge about GNN from the video of MuLi
+3. learn the document of DGL and PyG, but there are many methods need to learn on time
+4. implement the GraphConv by DGL and Py, in PyG has a problem, 
+5. PhD Qualifying Examination.
+
+## week6
+1. meeting,
+2. implement the GATConv, SAEGConv by DGL and PyG
+3. the formulas are corresponding to the code
+4. think: the small change can chang the algorithm, the creation is not large in research 
+
 ## 后续计划随时更新：
 1. review the classical papers of GNN and read the new papers of LLMs,
-2. compete the project of algorithm library of GNN
+2. implement the tasks of GNN by PyG and DGL on time
+3. discuss the direction with Pro.Shi
