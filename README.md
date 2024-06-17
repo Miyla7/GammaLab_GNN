@@ -34,9 +34,14 @@
 1. meeting,
 2. implement the GATConv, SAEGConv by DGL and PyG
 3. the formulas are corresponding to the code
-4. think: the small change can chang the algorithm, the innovation is not must large in research 
+4. think: the small change can chang the algorithm, the innovation is not must large in research
 
+## week7
+1. meeting,
+2. learn the multimodal-align of Yue Yu online,
+3. watch the tutorial of GNN, know about some graph embedding methods and review the foundation of GNN model,
+4. read the paper of AI agent.
 ## 后续计划随时更新：
 1. review the classical papers of GNN and read the new papers of LLMs,
 2. implement the tasks of GNN by PyG and DGL on time
-3. discuss the direction with Pro.Shi
+3. read the paper of AI agent continuously
