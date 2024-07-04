@@ -41,7 +41,18 @@
 2. learn the multimodal-align of Yue Yu online,
 3. watch the tutorial of GNN, know about some graph embedding methods and review the foundation of GNN model,
 4. read the paper of AI agent.
+
+## week8
+1. implement the code of week7, the performance are not the best.
+2. read the paper of graph transformer written by the Yujie Xing, some definitions which I have analyzed are easy, so I can understand them.
+3. complete my master's degree and go to Beijing
+4. discuss with the Prof. Shi about the research direction.
+5.discuss with Phd. Wang about the multimodel molecule learning. 
+
 ## 后续计划随时更新：
-1. review the classical papers of GNN and read the new papers of LLMs,
-2. implement the tasks of GNN by PyG and DGL on time
-3. read the paper of AI agent continuously
+plan:
+1. refine the code.
+2. write the code of the paper of Yujie Xing in one week.
+3. read the 5 literatures about MML and GRL one week.
+4. read the paper of AI agent continuously
+5. learn LLM in two months
